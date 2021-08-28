@@ -1,0 +1,37 @@
+#cound {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+h1 {
+    text-align: center;
+    background-color: crimson;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    height: 50px;
+
+}
+
+.country {
+    border: 2px solid yellowgreen;
+    border-radius: 10px;
+    background-color: aquamarine;
+    color: black;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+    
+}
+/* .mar{
+    margin-top: 100px;
+}
+.nam{
+    position:fixed;
+    top: 10px;
+    
+    
+}
+.n{
+    background-color: aqua;
+} */
